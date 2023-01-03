@@ -25,8 +25,6 @@ Laravel é um framework de aplicações web com sintaxe expressiva e elegante. A
 
 
 ## Como integrar um projeto Laravel para codificação e testes no Gitpod
-Introdução Gitpod é uma plataforma SaaS que oferece ambientes de desenvolvimento Ready-To-Code. O que isso significa é que o GitPod permite que você descreva seu ambiente de desenvolvimento como código e provisione ou compartilhe facilmente
-
 
 ### Apresentação
 Gitpod é uma plataforma SaaS que oferece ambientes de desenvolvimento Ready-To-Code. O que isso significa é que o GitPod permite que você descreva seu ambiente de desenvolvimento como código e o provisione ou compartilhe facilmente.
