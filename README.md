@@ -20,8 +20,6 @@ Laravel é um framework de aplicações web com sintaxe expressiva e elegante. A
 - [Transmissão de eventos em tempo real.](https://laravel.com/docs/broadcasting).
 
 <p>Abrir projeto no Gitpod: </p>
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod) 
-
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod)
 
 
@@ -90,4 +88,4 @@ tasks:
 ```
 
 <p>Abrir projeto no Gitpod: </p>
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod)
