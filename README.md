@@ -21,7 +21,7 @@ Laravel é um framework de aplicações web com sintaxe expressiva e elegante. A
 
 <p> Abrir projeto no Gitpod: </p>
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/app-laravel-gitpod)
 
 
 ## Como integrar um projeto Laravel para codificação e testes no Gitpod
@@ -40,11 +40,11 @@ A primeira etapa é navegar até o repositório do GitHub que você deseja confi
 
 Para este exemplo, usarei este mesmo repositório mas você pode usar este ou outro de sua preferência.
 
-O repositório GitHub está disponível publicamente em https://github.com/paulocaetanomt88/testando-gitpod/.
+O repositório GitHub está disponível publicamente em https://github.com/paulocaetanomt88/app-laravel-gitpod/.
 
 Em seguida, editaremos ligeiramente esta URL para iniciar um espaço de trabalho do Gitpod para este repositório.
 
-Adicionaremos "gitpod.io/#" na frente da URL do repositório e pressionaremos enter. Para o exemplo acima, será https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod
+Adicionaremos "gitpod.io/#" na frente da URL do repositório e pressionaremos enter. Para o exemplo acima, será https://gitpod.io/#https://github.com/paulocaetanomt88/app-laravel-gitpod
 
 Para usuários iniciantes do Gitpod, você será solicitado a entrar no GitHub e autorizar o aplicativo.
 
@@ -88,4 +88,4 @@ tasks:
 
 <p> Abrir projeto no Gitpod: </p>
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/testando-gitpod)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/app-laravel-gitpod)
