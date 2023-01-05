@@ -31,7 +31,7 @@ Gitpod é uma plataforma SaaS que oferece ambientes de desenvolvimento Ready-To-
 
 Isso é ótimo para permitir que as pessoas experimentem rapidamente uma nova biblioteca ou estrutura e até mesmo para o desenvolvimento do dia a dia.
 
-Este artigo do blog do GitPod é uma ótima explicação para o problema que o GitPod resolve, bem como um fantástico guia de uso geral.
+Este artigo sobre GitPod com Laravel é uma ótima explicação para o problema que o GitPod resolve.
 
 Aqui, vamos estender isso especificamente para o framework Laravel e ver como criar um ambiente Ready-To-Code para nossos projetos.
 
@@ -89,3 +89,11 @@ tasks:
 <p> Abrir projeto no Gitpod: </p>
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/paulocaetanomt88/app-laravel-gitpod)
+
+### Observação:
+Quando abrir o projeto, o Terminal do Gitpod Code vai exibir a mensagem (digite yes e pressione Enter):
+WARN  The database 'testando_gitpod' does not exist on the 'mysql' connection.  
+  Would you like to create it? (yes/no) [no]
+❯ yes
+
+Pronto, agora o Laravel vai rodar as migrations, o(s) seed(s) e servir a aplicação em http://127.0.0.1:8000.
